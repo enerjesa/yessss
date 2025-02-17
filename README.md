@@ -21,3 +21,4 @@ Future Development: In the future, the project could be expanded to include othe
 Skills and Assistance Needed: To develop this project, I would need to work with traffic engineers, city planners, and people with experience in transportation systems.
 7. Acknowledgments
 Credits: If I use any publicly available data or tools, I will make sure to acknowledge the original creators and any relevant licenses (for example, using open data from local transportation departments).
+summaryt
